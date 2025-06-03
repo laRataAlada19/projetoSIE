@@ -48,7 +48,7 @@ standard</bpmn:text>
     </bpmn:textAnnotation>
     <bpmn:association id="Association_0pk4frf" associationDirection="None" sourceRef="Activity_09h84sz" targetRef="TextAnnotation_0c7qu3d" />
   </bpmn:collaboration>
-  <bpmn:process id="Process_0k5j6ni" name="projeto" isExecutable="true"><bpmn:extensionElements><zeebe:versionTag value="1.0.13"></zeebe:versionTag></bpmn:extensionElements>
+  <bpmn:process id="Process_0k5j6ni" name="projeto" isExecutable="true"><bpmn:extensionElements><zeebe:versionTag value="1.0.14"></zeebe:versionTag></bpmn:extensionElements>
     <bpmn:laneSet id="LaneSet_0snrkt0">
       <bpmn:lane id="Lane_1ehneh1" name="Responsavel pelo processo">
         <bpmn:flowNodeRef>Gateway_075srli</bpmn:flowNodeRef>
